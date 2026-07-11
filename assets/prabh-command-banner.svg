@@ -1,0 +1,46 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Prabh command center banner</title>
+  <desc id="desc">Animated terminal style GitHub profile banner for Thegreatprabh.</desc>
+  <style>
+    .grid { stroke: #173042; stroke-width: 1; opacity: .7; }
+    .scan { animation: scan 4s linear infinite; }
+    .pulse { animation: pulse 2.8s ease-in-out infinite; }
+    .dash { stroke-dasharray: 10 16; animation: dash 8s linear infinite; }
+    .type { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    @keyframes scan { 0% { transform: translateY(-70px); opacity: 0; } 15%, 80% { opacity: .9; } 100% { transform: translateY(365px); opacity: 0; } }
+    @keyframes pulse { 0%, 100% { opacity: .45; } 50% { opacity: 1; } }
+    @keyframes dash { to { stroke-dashoffset: -260; } }
+  </style>
+  <rect width="1200" height="360" rx="0" fill="#050B12"/>
+  <path d="M0 72H1200M0 144H1200M0 216H1200M0 288H1200M120 0V360M240 0V360M360 0V360M480 0V360M600 0V360M720 0V360M840 0V360M960 0V360M1080 0V360" class="grid"/>
+  <path d="M0 22C172 88 264 81 395 39C520 -1 649 17 785 82C928 151 1042 162 1200 110V0H0V22Z" fill="#071A24"/>
+  <path d="M0 326C175 261 310 272 468 317C641 366 760 357 900 296C1021 244 1107 243 1200 270V360H0V326Z" fill="#061720"/>
+  <g opacity=".85">
+    <path d="M104 224C208 133 305 115 392 170C478 225 555 224 648 151C754 67 872 83 988 197C1046 254 1096 275 1164 277" stroke="#00F5A0" stroke-width="3" class="dash"/>
+    <path d="M88 260C193 171 309 165 405 220C500 275 594 260 692 180C802 90 918 110 1027 222C1075 272 1125 291 1182 292" stroke="#33D1FF" stroke-width="2" opacity=".75" class="dash"/>
+  </g>
+  <rect x="58" y="64" width="520" height="232" rx="18" fill="#07131D" stroke="#1D4052"/>
+  <circle cx="92" cy="95" r="7" fill="#FF5F57"/>
+  <circle cx="116" cy="95" r="7" fill="#FFBD2E"/>
+  <circle cx="140" cy="95" r="7" fill="#28C840"/>
+  <text x="82" y="145" fill="#7CE7FF" font-size="22" class="type">$ whoami</text>
+  <text x="82" y="186" fill="#F6FBFF" font-size="40" font-weight="800" class="type">Thegreatprabh</text>
+  <text x="82" y="229" fill="#00F5A0" font-size="24" class="type">AI + Automation + Full Stack</text>
+  <text x="82" y="263" fill="#8AA8B7" font-size="18" class="type">shipping clean tools from wild ideas</text>
+  <g transform="translate(725 70)">
+    <rect width="340" height="220" rx="18" fill="#06131B" stroke="#1D4052"/>
+    <text x="32" y="50" fill="#8AA8B7" font-size="18" class="type">LIVE BUILD SIGNAL</text>
+    <text x="32" y="100" fill="#00F5A0" font-size="52" font-weight="800" class="type">ONLINE</text>
+    <text x="32" y="142" fill="#F6FBFF" font-size="20" class="type">APIs  dashboards  agents</text>
+    <text x="32" y="178" fill="#FFB000" font-size="20" class="type">status: dangerous focus</text>
+    <circle cx="285" cy="56" r="12" fill="#00F5A0" class="pulse"/>
+  </g>
+  <rect y="0" width="1200" height="42" fill="url(#scanline)" class="scan"/>
+  <defs>
+    <linearGradient id="scanline" x1="0" y1="0" x2="0" y2="42" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00F5A0" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#00F5A0" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#00F5A0" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+</svg>
