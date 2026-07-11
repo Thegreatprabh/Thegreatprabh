@@ -92,8 +92,11 @@ SIGNAL      build > noise
   <a href="https://github.com/Thegreatprabh">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Thegreatprabh-00F5A0?style=for-the-badge&logo=github&logoColor=white&labelColor=050B12" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Open%20for%20builds-FFB000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050B12" />
+  <a href="https://instagram.com/thegreatprabh">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-thegreatprabh-FF2D75?style=for-the-badge&logo=instagram&logoColor=white&labelColor=050B12" />
+  </a>
+  <a href="mailto:thegreatprabh@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-thegreatprabh%40gmail.com-FFB000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050B12" />
   </a>
 </p>
 
