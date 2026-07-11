@@ -5,7 +5,7 @@
 <h1 align="center">Thegreatprabh</h1>
 
 <p align="center">
-  <b>AI builder | automation engineer | full-stack problem solver</b>
+  <b>Builder of clean tools, smart automations, sharp dashboards, and useful digital products.</b>
 </p>
 
 <p align="center">
@@ -22,11 +22,17 @@
 
 ```txt
 USER        Thegreatprabh
-MODE        shipping useful tools, fast
-STACK       Python | JavaScript | React | Node | APIs | AI workflows
-MISSION     turn messy ideas into clean, working products
-SIGNAL      build > noise
+MODE        learning fast, building sharper, shipping better
+STACK       Python | JavaScript | React | Node | APIs | automation
+MISSION     turn raw ideas into clean products people can actually use
+SIGNAL      discipline > noise
 ```
+
+### About Me
+
+I like building things that feel simple on the outside and powerful under the hood. My work sits around coding, automation, dashboards, AI-assisted workflows, and practical tools that save time or make an idea easier to use.
+
+Right now, I am focused on becoming the kind of developer who can take a rough thought, break it down, build the system, polish the interface, and ship something that feels real.
 
 ### Current Loadout
 
@@ -38,11 +44,11 @@ SIGNAL      build > noise
 
 | Tool | What it does |
 | --- | --- |
-| **AI workflow builder** | Turns repetitive work into clean automations with prompts, APIs, and scripts. |
-| **Dashboard forge** | Builds sharp web dashboards for tracking data, work, and growth. |
-| **API command layer** | Connects services, cleans data, and ships reliable backend endpoints. |
-| **Bug hunter mode** | Reads code, finds weak spots, patches issues, and adds focused tests. |
-| **Launch kit maker** | Creates READMEs, docs, setup flows, and product pages that look serious. |
+| **Automation systems** | Turns repeated work into scripts, workflows, and connected tools. |
+| **Dashboard builds** | Creates clean interfaces for tracking data, progress, and decisions. |
+| **Full-stack experiments** | Builds practical web apps with useful flows, APIs, and real structure. |
+| **Problem-solving mode** | Reads messy requirements, breaks them down, and ships a working version. |
+| **Launch polish** | Writes READMEs, setup flows, docs, and product pages that look serious. |
 
 ### GitHub Radar
 
