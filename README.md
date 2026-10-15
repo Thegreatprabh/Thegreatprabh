@@ -77,6 +77,12 @@ I like things that feel simple on the outside and powerful under the hood. Every
   </a>
 </p>
 
+### 👾 Pac-Man Contributions
+
+<p align="center">
+  <img alt="Pac-Man eating contributions" src="https://pacman.abozanona.me/api?username=Thegreatprabh" />
+</p>
+
 ### 🐍 Contribution Snake
 
 <p align="center">
@@ -104,3 +110,5 @@ I like things that feel simple on the outside and powerful under the hood. Every
 <p align="center">
   <sub>Profile engineered for impact. Keep building. 🎯</sub>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F5A0&height=120&section=footer" width="100%" alt="Animated wave footer" />
