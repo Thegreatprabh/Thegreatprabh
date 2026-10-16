@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/prabh-hacker-banner.svg" alt="Prabh hacker banner" width="100%" />
+  <img src="./assets/prabh-animated-banner.svg" alt="Prabh hacker banner" width="100%" />
 </p>
 
 ```bash
