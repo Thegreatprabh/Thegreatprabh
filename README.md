@@ -27,6 +27,17 @@ root@thegreatprabh:~$ ./status.sh --all
 
 ---
 
+### 🎯 Currently Hacking On
+
+<!-- CURRENTLY:START -->
+```txt
+$ tail -n 3 ~/activity.log
+[2026-10-16] Thegreatprabh — profile command-center v3: glitch banner, system monitor, widgets
+[2026-10-15] Desi-Invoice + Desi-Resume — shipped two free tools for Indian freelancers
+[2026-10-15] bug-bounty starter kit drafted · MST exam prep done
+```
+<!-- CURRENTLY:END -->
+
 ### 💀 Root Access
 
 ```txt
@@ -82,22 +93,16 @@ I'm Prabhjot — a BBA FinTech & AI student who doesn't just study systems, **I 
   <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Thegreatprabh&theme=dark&hide_border=true&background=050B12&ring=00F5A0&fire=FFB000&currStreakLabel=00F5A0" />
 </p>
 
+### 🏙️ Contribution City
+
+<p align="center">
+  <img src="./assets/contrib-city.svg" alt="3D animated contribution city" width="700" />
+</p>
+
 ### 📟 Live System Monitor
 
 <p align="center">
   <img src="./assets/sysmon.svg" alt="Animated live system monitor" width="800" />
-</p>
-
-### 💬 Intercepted Transmission
-
-<p align="center">
-  <img alt="Random dev quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-### 😂 Laugh Protocol
-
-<p align="center">
-  <img alt="Random programming joke" src="https://readme-jokes.vercel.app/api?theme=tokyonight&hide_border=true" />
 </p>
 
 ### 👾 Pac-Man Protocol
