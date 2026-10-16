@@ -74,7 +74,7 @@ I'm Prabhjot — a BBA FinTech & AI student who doesn't just study systems, **I 
 ### 📡 Signal
 
 <p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Thegreatprabh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Command%20Stats" />
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Thegreatprabh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=Command%20Stats" />
   <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thegreatprabh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
