@@ -21,7 +21,6 @@ root@thegreatprabh:~$ ./status.sh --all
   <a href="https://github.com/Thegreatprabh?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Thegreatprabh?style=for-the-badge&logo=github&label=Followers&color=00F5A0&labelColor=050B12" />
   </a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Thegreatprabh&style=for-the-badge&color=00f5a0&label=Profile+hits" />
   <img alt="Status" src="https://img.shields.io/badge/STATUS-operational-00F5A0?style=for-the-badge&labelColor=050B12" />
 </p>
 
