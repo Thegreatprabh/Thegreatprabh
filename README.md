@@ -70,13 +70,12 @@ I'm Prabhjot — a BBA FinTech & AI student who doesn't just study systems, **I 
 ### 🔥 Live Operations
 
 <p align="center">
-  <a href="https://github.com/Thegreatprabh/phishguard">
-    <img alt="Prana" src="https://github-readme-stats.vercel.app/api/pin/?username=Thegreatprabh&repo=Prana&theme=tokyonight&hide_border=true" />
-  </a
-  <a href="https://github.com/Thegreatprabh/Argus">
-    <img alt="Argus" src="https://github-readme-stats.vercel.app/api/pin/?username=Thegreatprabh&repo=Argus&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Thegreatprabh/Prana">
+    <img alt="PRANA" src="https://github-readme-stats.vercel.app/api/pin/?username=Thegreatprabh&repo=Prana&theme=tokyonight&hide_border=true" />
   </a>
-  <a 
+  <a href="https://github.com/Thegreatprabh/Argus">
+    <img alt="ARGUS" src="https://github-readme-stats.vercel.app/api/pin/?username=Thegreatprabh&repo=Argus&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 ### 📡 Signal
