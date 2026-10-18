@@ -71,14 +71,12 @@ I'm Prabhjot — a BBA FinTech & AI student who doesn't just study systems, **I 
 
 <p align="center">
   <a href="https://github.com/Thegreatprabh/phishguard">
-    <img alt="PhishGuard" src="https://github-readme-stats.vercel.app/api/pin/?username=Thegreatprabh&repo=phishguard&theme=tokyonight&hide_border=true" />
+    <img alt="Prana" src="https://github-readme-stats.vercel.app/api/pin/?username=Thegreatprabh&repo=Prana&theme=tokyonight&hide_border=true" />
+  </a
+  <a href="https://github.com/Thegreatprabh/Argus">
+    <img alt="Argus" src="https://github-readme-stats.vercel.app/api/pin/?username=Thegreatprabh&repo=Argus&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/Thegreatprabh/Desi-Invoice">
-    <img alt="Desi Invoice" src="https://github-readme-stats.vercel.app/api/pin/?username=Thegreatprabh&repo=Desi-Invoice&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Thegreatprabh/Desi-resume">
-    <img alt="Desi Resume" src="https://github-readme-stats.vercel.app/api/pin/?username=Thegreatprabh&repo=Desi-resume&theme=tokyonight&hide_border=true" />
-  </a>
+  <a 
 </p>
 
 ### 📡 Signal
