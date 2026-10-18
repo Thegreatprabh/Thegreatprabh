@@ -31,10 +31,9 @@ root@thegreatprabh:~$ ./status.sh --all
 
 <!-- CURRENTLY:START -->
 ```txt
-$ tail -n 3 ~/activity.log
-[2026-10-16] Thegreatprabh — profile command-center v3: glitch banner, system monitor, widgets
-[2026-10-15] Desi-Invoice + Desi-Resume — shipped two free tools for Indian freelancers
-[2026-10-15] bug-bounty starter kit drafted · MST exam prep done
+$ tail -n 4 ~/activity.log
+[2026-10-17] Desi-resume — "Hacker-mode README: terminal hero, dark badges, arsenal" (+1 more)
+[2026-10-16] Thegreatprabh — "Add contribution city + currently-hacking-on; remove" (+2 more)
 ```
 <!-- CURRENTLY:END -->
 
